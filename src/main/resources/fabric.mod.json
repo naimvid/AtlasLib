@@ -3,9 +3,9 @@
 	"id": "atlaslib",
 	"version": "${version}",
 	"name": "AtlasLib",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Custom fabric mod library",
 	"authors": [
-		"Me!"
+		"naimv"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
