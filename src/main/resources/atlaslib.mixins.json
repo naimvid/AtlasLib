@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "naimv.atlaslib.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"CameraMixin",
+		"access.CameraAccessor",
+		"invoker.CameraInvoker",
+		"GameRendererMixin",
+		"access.GameRendererAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
